@@ -1,0 +1,51 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background-color: #982727;
+    font-size: 62px;
+    color: #fff;
+    font-weight: 700;
+    text-align: center;
+    margin: 57px 0 42px 0;
+}
+
+.sunsetImage{
+    width: 1490px;
+}
+
+.container{
+    padding: 0 0 0 15px;
+    font-size: 35.4px;
+}
+
+.footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    font-size: 41px;
+    margin: 70px 0 70px 0;
+}
+
+.italicsStyle {
+    font-style: italic;
+}
+
+.boldStyle {
+    font-weight: bold;
+}
+
+.blueStyle {
+    color: #0000eb;
+}
+
+.gallery img {
+    width: 144px;
+    border: 6px dashed #000;
+}
+
+.gallery {
+    text-align: center;
+}
